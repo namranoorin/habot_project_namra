@@ -1,0 +1,16 @@
+.search-bar-container {
+    background-image: url('../images/bg_image.png');
+    background-size: cover;
+    background-position: center;
+  }
+  .search-bar input {
+    min-width: 200px;
+  }
+  .font{
+    font-weight:700;
+    font-size: 55px;
+  }
+  .font-2{
+    font-weight: 400px;
+    font-size: 55px;
+  }
